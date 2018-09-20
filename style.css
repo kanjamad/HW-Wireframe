@@ -1,0 +1,129 @@
+html {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #ebebeb;
+    background:#777;
+    width: 960px;
+    font-size: 18px;
+    padding: 20px;
+    margin: 15%;
+    margin-top: 0px;
+}
+
+
+
+/*
+**************************
+header
+**************************
+*/
+
+header {
+    padding: 20px;
+    margin-bottom: 20px;
+    color:#777;
+    background:#ebebeb;
+  }
+
+
+/*
+**************************
+nav
+**************************
+*/
+
+nav {
+    padding: 20px;
+    margin-bottom: 20px;
+    color:#777;
+    background:#ebebeb;
+}
+
+
+
+/*
+**************************
+section
+**************************
+*/
+
+.section {
+    width: 45%;
+    margin-bottom: 20px;
+    height: 200px;
+    padding: 20px;
+    color:#777;
+    background:#ebebeb;
+    float: left;
+}
+
+#A {
+    color: #ebebeb;
+    background:#777;
+    /*height: 150px;*/
+    padding:10px;
+    margin-bottom: 20px;  
+
+}
+
+#H {
+    
+    margin: 10px;
+    color:#777;
+    background:#ebebeb;
+    /*height: 20px;*/
+    padding-bottom: 8px;
+    padding-top: 8px;
+    
+   
+}
+
+#P {
+    margin: 10px;
+    color:#777;
+    background:#ebebeb;
+    /*height: 20px;*/
+    padding-bottom: 8px;
+    padding-top: 8px;
+    
+    
+}
+
+
+
+
+/*
+**************************
+aside
+**************************
+*/
+
+aside {
+    width: 45%;
+    margin-bottom: 20px;
+    color:#777;
+    background:#ebebeb;
+    float: right;
+    height: 200px;
+    padding: 20px;
+}
+
+
+
+
+/*
+**************************
+footer
+**************************
+*/
+
+footer {
+    padding: 20px;
+    clear: both;
+    color:#777;
+    background:#ebebeb;
+  }
